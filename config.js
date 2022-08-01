@@ -4,10 +4,10 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ɴᴏᴜʀᴇᴅᴅɪɴᴇ ᴏᴜᴀꜰʏ⁩⁩'
-global.numberowner = '212774592783'
-global.instagram = 'https://www.instagram.com/noureddine_ouafy'
-global.github = 'https://instagram.com/noureddine_ouafy'
+global.nameowner = '𝐍𝐀𝐌𝐗𝟐𝟏𝟐𝐁𝐎𝐓'
+global.numberowner = '212705570169'
+global.instagram = 'https://www.instagram.com/gyd0_'
+global.github = 'https://instagram.com/gyd0_'
 global.dana = ''
 global.pulsa = ''
 global.gopay = ''
@@ -23,10 +23,16 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '★彡[ʙᴏʙɪᴢ ʙᴏᴛ]彡★'
+global.wm = '★彡[صلي على سيدنا محمد]'
+
+
+
+
+
+
 global.watermark = wm
 global.wm2 = '                     ★彡[ʙᴏʙɪᴢ ʙᴏᴛ]彡★'
-global.wm3 = 'noureddine ouafy⛧'
+global.wm3 = '𝘽𝙤𝙢𝙞𝙧𝙤'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +43,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'please wait 3afak tsna xwia asidi '
 global.packname = 'Created by'
-global.author = 'noureddine ouafy⛧⁩⁩'
+global.author = '𝘽𝙤𝙢𝙞𝙧𝙤'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
